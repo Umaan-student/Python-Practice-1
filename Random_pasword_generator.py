@@ -1,3 +1,4 @@
+# making pasword generator random in python
 import random
 chars = "abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*ABCDEFGHIJKLMNOPQRSTUVWXYZ10"
 length=int(input("enter your length: "))
